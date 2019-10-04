@@ -1,0 +1,14 @@
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\bin\Debug\IntroductionToTasks.exe.config
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\bin\Debug\IntroductionToTasks.exe
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\bin\Debug\IntroductionToTasks.pdb
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.csprojAssemblyReference.cache
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.csproj.CoreCompileInputs.cache
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.exe
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.pdb
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\bin\Debug\IntroductionToTasks.exe.config
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\bin\Debug\IntroductionToTasks.exe
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\bin\Debug\IntroductionToTasks.pdb
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.csprojAssemblyReference.cache
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.csproj.CoreCompileInputs.cache
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.exe
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\IntroductionToTasks\obj\Debug\IntroductionToTasks.pdb

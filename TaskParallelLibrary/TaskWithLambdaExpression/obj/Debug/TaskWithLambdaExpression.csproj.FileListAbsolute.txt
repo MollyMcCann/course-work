@@ -1,0 +1,14 @@
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\bin\Debug\TaskWithLambdaExpression.exe.config
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\bin\Debug\TaskWithLambdaExpression.exe
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\bin\Debug\TaskWithLambdaExpression.pdb
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.csprojAssemblyReference.cache
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.csproj.CoreCompileInputs.cache
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.exe
+E:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.pdb
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\bin\Debug\TaskWithLambdaExpression.exe.config
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\bin\Debug\TaskWithLambdaExpression.exe
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\bin\Debug\TaskWithLambdaExpression.pdb
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.csprojAssemblyReference.cache
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.csproj.CoreCompileInputs.cache
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.exe
+D:\c# 3\fall 2019\Week3\TaskParallelLibrary\TaskWithLambdaExpression\obj\Debug\TaskWithLambdaExpression.pdb
