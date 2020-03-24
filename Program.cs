@@ -1,43 +1,37 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
-namespace Practice_if_else
+namespace bmi_calculator
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // age warning for a game or site
-            Console.Write("Please enter your age: ");
-            Byte age = Byte.Parse(Console.ReadLine());
-            //we have just requested Users age now we will set some rules for the age of User allowed to view content
-            if (age < 14)
-            {
-                Console.WriteLine("Users under 14 must have a parents permission");
-            }
-            else
-            {
-                Console.WriteLine("Enjoy your Game!");
-            }
-            Console.Write("please enter your first number : ");
-            int firstNumbr = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Please enter your second number : ");
-            int secoundNumber = Int32.Parse(Console.ReadLine());
-            Console.WriteLine("Please enter the sum of {0} and  {1} : ",
-                firstNumbr,secoundNumber);
-            int userTotal = Int32.Parse(Console.ReadLine());
+            // excersise: compute bmi = weight/height^2 *703
 
-            int actualTotal = firstNumbr + secoundNumber;
-            if (actualTotal == userTotal)
-            {
-                Console.WriteLine("You are correct!");
-            }
-            else
-            {
-                Console.WriteLine("that is incorrect, the correct total is  {0}",actualTotal);
-            }
+            
+            // 1input: read data weight and height
+            Console.WriteLine( "Enter your weight:" );
+            double weight = double.Parse(Console.ReadLine());
+        
+            Console.WriteLine("Enter your height:");
+            double Height = double.Parse(Console.ReadLine());
 
-           // Console.WriteLine("10>15: {0}", 10 > 15) ; 
-            Console.ReadKey();
+            // process: compute bmi
+            double bmi = weight * 703 / Math.Pow(Height, 2);
+
+            // output display bmi value to one decimal point
+            Console.WriteLine($"\n bmi = {bmi:f1}");
+            
+
+            //pause the console
+            Console.WriteLine(" \n\nHit the 'enter' key to exit...");
+            Console.ReadLine(); //dummy read
+            
+
 
         }
     }
