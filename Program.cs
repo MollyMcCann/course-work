@@ -1,38 +1,30 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace bmi_calculator
+namespace rectangle
 {
     class Program
     {
         static void Main(string[] args)
         {
-            // excersise: compute bmi = weight/height^2 *703
+            Console.SetCursorPosition(35, 4);
+            Console.Write("------------------");
+            string topLine= Console.ReadLine();
 
-            
-            // 1input: read data weight and height
-            Console.WriteLine( "Enter your weight:" );
-            double weight = double.Parse(Console.ReadLine());
-        
-            Console.WriteLine("Enter your height:");
-            double Height = double.Parse(Console.ReadLine());
+            Console.SetCursorPosition(35, 6);
+            Console.Write("------------------");
+            string BottomLine = Console.ReadLine();
 
-            // process: compute bmi
-            double bmi = weight * 703 / Math.Pow(Height, 2);
+            Console.SetCursorPosition(35, 5);
+            Console.Write("|");
+            string Lside = Console.ReadLine();
 
-            // output display bmi value to one decimal point
-            Console.WriteLine($"\n bmi = {bmi:f1}");
-            
+            Console.SetCursorPosition(53, 5);
+            Console.Write("|");
+            string Rside = Console.ReadLine();
 
-            //pause the console
-            Console.WriteLine(" \n\nHit the 'enter' key to exit...");
-            Console.ReadLine(); //dummy read
-            
-
-
+            Console.SetCursorPosition(40, 5);
+            Console.Write("Molly");
+            string MyName = Console.ReadLine();
         }
     }
 }
